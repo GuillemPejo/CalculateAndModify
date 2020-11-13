@@ -1,0 +1,5 @@
+-----INFO DOCUMENT-----
+
+Nom del fitxer: input
+Nombre de paraules: 69
+Nombre de paràgrafs: 6
